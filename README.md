@@ -41,5 +41,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Aniket Nimaje](https://www.your-site.com)
 - Frontend Mentor - [@aniket167779](https://www.frontendmentor.io/profile/yourusername)
