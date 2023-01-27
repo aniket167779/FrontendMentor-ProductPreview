@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/product-preview-card-component-zakUydXeqe
 - Live Site URL: https://capable-licorice-a8ff54.netlify.app/
 
 ### Built with
