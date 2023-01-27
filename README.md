@@ -41,4 +41,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - (https://www.frontendmentor.io/profile/aniket167779)
+- Frontend Mentor - https://www.frontendmentor.io/profile/aniket167779
